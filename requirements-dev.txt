@@ -1,0 +1,2 @@
+-r pdf_ocr_app/requirements.txt
+ruff>=0.14,<1

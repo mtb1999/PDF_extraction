@@ -1,0 +1,4 @@
+streamlit>=1.49,<2
+pymupdf>=1.26,<2
+pytesseract>=0.3.13,<0.4
+pillow>=11,<13

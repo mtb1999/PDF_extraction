@@ -1,0 +1,32 @@
+# Local Python environments and generated files (at any depth).
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Credentials, editor state, and local settings.
+.env
+.env.*
+.streamlit/secrets.toml
+.vscode/
+.idea/
+*.log
+Thumbs.db
+.DS_Store
+
+# Never publish input documents or extracted confidential content.
+*.pdf
+*.txt
+!requirements.txt
+!requirements-dev.txt
+uploads/
+output/
+outputs/
+tessdata/
